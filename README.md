@@ -39,4 +39,4 @@ The first run downloads GPT-2.
 
 Built in 24 hours at the Grab A Pi Hacknight 2025 hackathon, so treat it as hackathon code. Passwords are stored and compared as plain text, and CORS allows every origin. Fix both before real use.
 The hosted demo is gone (the old Vercel deployments return 404). Demo video: [Google Drive](https://drive.google.com/file/d/1MVkfO9Egz7OYMO5P1V_LLRtHLkTZutCb/view).
-Forked from [Habeeb00's original repo](https://github.com/Habeeb00/Grab-a-pi), which is where the team built it together.
+Forked from [Habeeb00's original repo](https://github.com/Habeeb00/Grab-a-pi).
